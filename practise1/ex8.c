@@ -13,3 +13,5 @@ printf(" The factorial of is %d\n",  fact);
 
 return 0;
 }
+
+// code doesnt work?
